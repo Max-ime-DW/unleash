@@ -1,3 +1,9 @@
+This is a test for a mini project.
+
+This repository will be used to test the Zen product of Aikido.
+
+
+
 <div align="center">
 
 <a href="https://getunleash.io" title="Unleash - Empowering developers to release with confidence">
